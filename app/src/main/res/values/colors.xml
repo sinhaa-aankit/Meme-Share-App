@@ -2,5 +2,8 @@
 <resources>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccent">#383A43</color>
+
+    <color name="shareButtonColor">#040E55</color>
+    <color name="nextButtonColor">#040E55</color>
 </resources>
